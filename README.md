@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abe Getachew
+# 👋 Hi, I'm Abebe Getachew
 
 Welcome to my GitHub profile! I am a **Digital Workplace Specialist & Software Enthusiast** from Ethiopia, passionate about using technology to solve real-world problems.  
 
