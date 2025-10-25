@@ -39,7 +39,7 @@ Here you’ll find repositories for:
 
 - 🌐 Website: [abebegetachew.site](https://abebegetachew.site)  
 - 💼 LinkedIn: [linkedin.com/in/abebegetachew](https://www.linkedin.com/in/abebegetachew)  
-- 🐦 Twitter/X: [@YourHandle](https://twitter.com/YourHandle)  
+- 🐦 Twitter/X: [@abegetnew]([https://x.com/abegetnew])  
 
 ---
 
